@@ -1,0 +1,28 @@
+.file{
+    width: 90%;
+    height: 740px;
+    background-color: chocolate;
+    text-align: center;
+    /* padding: 30px; */
+/* margin: 430px; */
+position: relative;
+bottom: -20px;
+left: 60px;
+border-radius: 20px;
+
+}
+body{
+    background-color: #202124;
+}
+input{
+    /* padding: 30px; */
+    /* padding: 20px; */
+    margin: 50px;
+    position: relative;
+    bottom: -10px;
+    text-align: right;
+    /* size: 400px; */
+    font-size: 20px;
+    display: inline-block;
+
+}

@@ -1,0 +1,64 @@
+body {
+    text-align: right;
+    background-color: coral;
+}
+
+div #im {
+    width: 30%;
+    height: 50%;
+    position: relative;
+    right: 880px;
+    top: 175px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: right;
+    position: relative;
+    right: 50px;
+    bottom: 80px;
+/* top: 20px; */
+
+}
+.mar{
+    margin: 40px;
+padding: 40px;
+}
+.one{
+    width: 30%;
+    height: 560px;
+    border: 2px solid #333;
+    margin: 10px;
+    padding: 40px;
+    display: inline-block;
+    background-color:aquamarine;
+
+    position: relative;
+    bottom: 35px;
+    top: -15px;
+}
+.two{
+    width: 30%;
+    height: 560px;
+    border: 2px solid #333;
+    margin: 10px;
+    padding: 40px;
+    display: inline-block;
+    background-color:aquamarine;
+    position: relative;
+    bottom: 35px;
+    top: -15px;
+    
+}
+.tre{
+    width: 30%;
+    height: 560px;
+    border: 2px solid #333;
+    margin: 10px;
+    padding: 60px;
+    display:inline-block;
+    background-color:aquamarine;
+    position: relative;
+    bottom: 20px;
+       /* top: -15px; */
+} 

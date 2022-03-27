@@ -1,0 +1,13 @@
+.one1{
+    width: 350px;
+    height: 600px;
+    background-color: rgba(1,1, 1, 0.5);
+    text-align: center;
+    /* margin: 5px; */
+    padding: 0px;
+    display: inline-block;
+ color: white;
+    position: relative;
+    left:5px;
+bottom: 820px;
+}
